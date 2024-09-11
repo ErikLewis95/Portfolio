@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.633d2b15.css",
+    "main.js": "/Portfolio/static/js/main.0999f20b.js",
+    "static/js/453.41811d64.chunk.js": "/Portfolio/static/js/453.41811d64.chunk.js",
+    "static/media/model.png": "/Portfolio/static/media/model.791a6874abe3402d23b0.png",
+    "static/media/png.png": "/Portfolio/static/media/png.f6ba2f8f590fd3b25659.png",
+    "static/media/Erik_Lewis_Simaremare_Resume.pdf": "/Portfolio/static/media/Erik_Lewis_Simaremare_Resume.60b99cebf1e881dad231.pdf",
+    "static/media/erik.jpg": "/Portfolio/static/media/erik.856d04a84893979f55ce.jpg",
+    "static/media/thank-you.png": "/Portfolio/static/media/thank-you.5400ccfb25ecdab14b86.png",
+    "static/media/AppStore.svg": "/Portfolio/static/media/AppStore.c192f2fdf7eaf0429cb6b8e9565177a2.svg",
+    "static/media/stars.svg": "/Portfolio/static/media/stars.96dcc6a8f08f4f900161df66a40e91ce.svg",
+    "static/media/mountain-1.svg": "/Portfolio/static/media/mountain-1.2d4c501ef22dc7f6afc8db070130c8c0.svg",
+    "static/media/react.svg": "/Portfolio/static/media/react.1520bd67b9711ed91ace46b169bc2491.svg",
+    "static/media/mountain-2.svg": "/Portfolio/static/media/mountain-2.2936a18035cde0c7511fcb7a1243c394.svg",
+    "static/media/slick.svg": "/Portfolio/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Portfolio/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/clouds-right.svg": "/Portfolio/static/media/clouds-right.ee1e6eab50c6f810be395c72f6f8c7ec.svg",
+    "static/media/slick.ttf": "/Portfolio/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/PlayStore.svg": "/Portfolio/static/media/PlayStore.42c50b016694677639b2f1121041be5f.svg",
+    "static/media/sun.svg": "/Portfolio/static/media/sun.f8653db37885713856e4d7c2a9a5e8e2.svg",
+    "index.html": "/Portfolio/index.html",
+    "static/media/previous.svg": "/Portfolio/static/media/previous.ccf6bba686359b8a06c55d5ed10ac0a8.svg",
+    "static/media/next.svg": "/Portfolio/static/media/next.c98547497d0ae7735d420c85291eca9f.svg",
+    "static/media/clouds-left.svg": "/Portfolio/static/media/clouds-left.2cb1ec23484e56a9579545a6be9251f5.svg",
+    "static/media/slick.woff": "/Portfolio/static/media/slick.295183786cd8a1389865.woff",
+    "static/media/cloud-bottom.svg": "/Portfolio/static/media/cloud-bottom.07fc0f703ff3f87e10be1478921532e9.svg",
+    "static/media/mountain-3.svg": "/Portfolio/static/media/mountain-3.ce5a9984bf8e124c8762787e745e72e4.svg",
+    "static/media/moon.svg": "/Portfolio/static/media/moon.3110b6b43dc0da840d299ca2c33e13bc.svg",
+    "main.633d2b15.css.map": "/Portfolio/static/css/main.633d2b15.css.map",
+    "main.0999f20b.js.map": "/Portfolio/static/js/main.0999f20b.js.map",
+    "453.41811d64.chunk.js.map": "/Portfolio/static/js/453.41811d64.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.633d2b15.css",
+    "static/js/main.0999f20b.js"
+  ]
+}
