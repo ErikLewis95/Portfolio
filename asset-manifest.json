@@ -1,12 +1,13 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.633d2b15.css",
-    "main.js": "/Portfolio/static/js/main.0999f20b.js",
+    "main.css": "/Portfolio/static/css/main.13fd6d13.css",
+    "main.js": "/Portfolio/static/js/main.4dc69e2d.js",
     "static/js/453.41811d64.chunk.js": "/Portfolio/static/js/453.41811d64.chunk.js",
     "static/media/model.png": "/Portfolio/static/media/model.791a6874abe3402d23b0.png",
     "static/media/png.png": "/Portfolio/static/media/png.f6ba2f8f590fd3b25659.png",
     "static/media/Erik_Lewis_Simaremare_Resume.pdf": "/Portfolio/static/media/Erik_Lewis_Simaremare_Resume.60b99cebf1e881dad231.pdf",
     "static/media/erik.jpg": "/Portfolio/static/media/erik.856d04a84893979f55ce.jpg",
+    "static/media/1.svg": "/Portfolio/static/media/1.9a95e22708b8c9a839ffc8b49ea162e2.svg",
     "static/media/thank-you.png": "/Portfolio/static/media/thank-you.5400ccfb25ecdab14b86.png",
     "static/media/AppStore.svg": "/Portfolio/static/media/AppStore.c192f2fdf7eaf0429cb6b8e9565177a2.svg",
     "static/media/stars.svg": "/Portfolio/static/media/stars.96dcc6a8f08f4f900161df66a40e91ce.svg",
@@ -27,12 +28,12 @@
     "static/media/cloud-bottom.svg": "/Portfolio/static/media/cloud-bottom.07fc0f703ff3f87e10be1478921532e9.svg",
     "static/media/mountain-3.svg": "/Portfolio/static/media/mountain-3.ce5a9984bf8e124c8762787e745e72e4.svg",
     "static/media/moon.svg": "/Portfolio/static/media/moon.3110b6b43dc0da840d299ca2c33e13bc.svg",
-    "main.633d2b15.css.map": "/Portfolio/static/css/main.633d2b15.css.map",
-    "main.0999f20b.js.map": "/Portfolio/static/js/main.0999f20b.js.map",
+    "main.13fd6d13.css.map": "/Portfolio/static/css/main.13fd6d13.css.map",
+    "main.4dc69e2d.js.map": "/Portfolio/static/js/main.4dc69e2d.js.map",
     "453.41811d64.chunk.js.map": "/Portfolio/static/js/453.41811d64.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.633d2b15.css",
-    "static/js/main.0999f20b.js"
+    "static/css/main.13fd6d13.css",
+    "static/js/main.4dc69e2d.js"
   ]
 }
