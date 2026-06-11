@@ -25,4 +25,5 @@ jobs:
     - name: Build
       run: |
         npm ci
+        # TODO: remove CI override after resolving existing eslint warnings in app source.
         CI=false npm run build
